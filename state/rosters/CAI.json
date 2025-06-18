@@ -1,0 +1,25 @@
+{
+  "tag": "CAI",
+  "name": "Cairns Snakes",
+  "accentColor": "LIGHTYELLOW_EX",
+  "players": [
+    { "name": "Bryce Cotton", "position": "G" },
+    { "name": "Keanu Pinder", "position": "F" },
+    { "name": "Kristian Doolittle", "position": "F" },
+    { "name": "Tai Webster", "position": "G" },
+    { "name": "Hyrum Harris", "position": "F" },
+    { "name": "Jesse Wagstaff", "position": "F" },
+    { "name": "Ben Henshall", "position": "G/F" },
+    { "name": "Izan Almansa", "position": "F/C" },
+    { "name": "Elijah Pepper", "position": "G" },
+    { "name": "Michael Harris", "position": "G" },
+    { "name": "David Okwera", "position": "F/C" },
+    { "name": "Dontae Nance", "position": "G" },
+    { "name": "Joe Thomasson", "position": "G" },
+    { "name": "Dylan Windler", "position": "F" },
+    { "name": "Todd Withers", "position": "G/F" }
+  ],
+  "coaches": [
+    { "name": "John Rillie" }
+  ]
+}

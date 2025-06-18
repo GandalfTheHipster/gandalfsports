@@ -1,0 +1,92 @@
+{
+  "teams": [
+    {
+      "name": "Perth Mellowkittens",
+      "accentColor": "RED",
+      "players": [
+        { "name": "Lebron James", "position": "SF" },
+        { "name": "Steph Curry", "position": "PG" }
+      ],
+      "coaches": [
+        { "name": "Gregg Popovich" }
+      ]
+    },
+    {
+      "name": "Adelaide 38ers",
+      "accentColor": "CYAN",
+      "players": [
+        { "name": "Lebron James", "position": "SF" },
+        { "name": "Steph Curry", "position": "PG" }
+      ],
+      "coaches": [
+        { "name": "Gregg Popovich" }
+      ]
+    },
+    {
+      "name": "Melbourne Fragented",
+      "accentColor": "BLUE",
+      "players": [
+        { "name": "Lebron James", "position": "SF" },
+        { "name": "Steph Curry", "position": "PG" }
+      ],
+      "coaches": [
+        { "name": "Gregg Popovich" }
+      ]
+    },
+    {
+      "name": "South East Melbourne Orders",
+      "accentColor": "LIGHTGREEN_EX",
+      "players": [
+        { "name": "Lebron James", "position": "SF" },
+        { "name": "Steph Curry", "position": "PG" }
+      ],
+      "coaches": [
+        { "name": "Gregg Popovich" }
+      ]
+    },
+    {
+      "name": "Brisbane Duttons",
+      "accentColor": "YELLOW",
+      "players": [
+        { "name": "Lebron James", "position": "SF" },
+        { "name": "Steph Curry", "position": "PG" }
+      ],
+      "coaches": [
+        { "name": "Gregg Popovich" }
+      ]
+    },
+    {
+      "name": "Cairns Snakes",
+      "accentColor": "LIGHTYELLOW_EX",
+      "players": [
+        { "name": "Lebron James", "position": "SF" },
+        { "name": "Steph Curry", "position": "PG" }
+      ],
+      "coaches": [
+        { "name": "Gregg Popovich" }
+      ]
+    },
+    {
+      "name": "New Zealand Builders",
+      "accentColor": "LIGHTMAGENTA_EX",
+      "players": [
+        { "name": "Lebron James", "position": "SF" },
+        { "name": "Steph Curry", "position": "PG" }
+      ],
+      "coaches": [
+        { "name": "Gregg Popovich" }
+      ]
+    },
+    {
+      "name": "Singapore Slingers",
+      "accentColor": "MAGENTA",
+      "players": [
+        { "name": "Lebron James", "position": "SF" },
+        { "name": "Steph Curry", "position": "PG" }
+      ],
+      "coaches": [
+        { "name": "Gregg Popovich" }
+      ]
+    }
+  ]
+}

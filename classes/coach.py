@@ -1,4 +1,4 @@
-from person import Person
+from classes.person import Person
 
 class Coach(Person):
     def __init__(self, name, age=None, energy=100):

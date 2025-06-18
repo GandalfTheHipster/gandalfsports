@@ -1,4 +1,4 @@
-from person import Person
+from classes.person import Person
 
 class Player(Person):
     def __init__(self, name, position, age=None, energy=100):

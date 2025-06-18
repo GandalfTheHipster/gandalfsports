@@ -3,7 +3,8 @@ init()
 
 
 class Team:
-    def __init__(self, name, colour, players=None, coach=None):
+    def __init__(self, tag, name, colour, players=None, coach=None):
+        self.tag = tag
         self.name = name
         self.players = players if players else []
         self.coach = coach if coach else []
@@ -11,13 +12,16 @@ class Team:
 
     def __repr__(self):
         color = getattr(Fore, self.colour.upper(), "")
-        return f"{color}Team {self.name}{Style.RESET_ALL}"
+        return f"{color}{self.name}{Style.RESET_ALL}"
 
     def add_player(self, player):
         self.players.append(player)
 
     def add_coach(self, coach):
         self.players.append(coach)
+
+    def get_tag(self):
+        return self.tag
 
     def list_players(self):
         print(f"{self.name} PLAYERS:")
